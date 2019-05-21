@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column; 
+}
+.box {
+    flex-direction: column; 
+    background: #ffffff;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+       -moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 0 10px 6px -6px #777;
+        }

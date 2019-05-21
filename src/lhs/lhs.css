@@ -1,0 +1,13 @@
+.box-lhs {
+    flex-direction: column; 
+    padding: 10px;
+    background: #f2b313;
+    text-align: center;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+       -moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 0 10px 6px -6px #777;
+        }
+
+        .box-container{
+           
+        }   

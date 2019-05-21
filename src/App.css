@@ -1,0 +1,12 @@
+.App {
+  margin: 1rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+body {
+  background-color: #D3D3D3; 
+  background-image: linear-gradient(to right, #eeeeee , #4c4444); 
+  padding: 20px;
+  margin: 0;
+}
